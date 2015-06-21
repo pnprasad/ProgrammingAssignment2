@@ -1,14 +1,14 @@
-## Put comments here that give an overall description of what your
-## functions do
+## 1. Create an object to cache the inverse of a matrix
+## 2. Determine the inverse of a matrix. If the inverse exists in a Cache, retrieve that.
 
-## Write a short comment describing this function
+## function to cache the inverse of a matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+## function to return the inverst of a matrix
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
